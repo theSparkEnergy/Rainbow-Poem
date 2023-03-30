@@ -3,3 +3,5 @@ white and black color are part of rainbow.
 
 add your color below:
 1.Red
+2.Green
+3.Yellow
